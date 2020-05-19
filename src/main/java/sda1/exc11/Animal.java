@@ -1,4 +1,4 @@
-package sda1;
+package sda1.exc11;
 
 public interface Animal {
 
